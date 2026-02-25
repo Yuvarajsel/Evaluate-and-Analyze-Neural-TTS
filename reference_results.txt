@@ -1,0 +1,11 @@
+      Version  Text Length  Audio Duration  Generation Time       RTF  Inverse RTF
+0      Normal         5162      329.208027        57.544137  0.174796     5.720966
+1        Slow         5162      340.464036        53.322694  0.156618     6.384974
+2        Fast         5162      318.456009        48.037276  0.150844     6.629352
+3  Expressive         5162      330.960000        58.441774  0.176583     5.663072
+
+      Version  MOS Score   Naturalness     Clarity       Observations
+0      Normal          4          Good       Clear    Balanced speech
+1        Slow          5  Very Natural  Very Clear       Best clarity
+2        Fast          3  Less Natural    Moderate      Slight rushed
+3  Expressive          4    Expressive       Clear  Emphasis improved
